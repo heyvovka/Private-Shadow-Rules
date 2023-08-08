@@ -3,6 +3,8 @@
 # UPDATED: 2023-08-08 08:00:00
 
 DOMAIN,play.google.com
+DOMAIN-KEYWORD,hdrezka
+DOMAIN-KEYWORD,skladchina
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,igcdn.com
@@ -25,17 +27,11 @@ DOMAIN-SUFFIX,nnmclub.to
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,skladchina.biz
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitter.co
 DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twitthat.com
-DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,vimeocdn.com
 
 
