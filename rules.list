@@ -5,9 +5,9 @@
 DOMAIN,play.google.com
 DOMAIN,kino.pub
 DOMAIN-SUFFIX,canva.com
-DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,instagram.com,force-remote-dns
+DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
