@@ -3,7 +3,7 @@
 # UPDATED: 2023-08-08 08:00:00
 
 DOMAIN,play.google.com
-DOMAIN,kino.pub
+DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,instagram.com,force-remote-dns
