@@ -8,8 +8,8 @@ DOMAIN-KEYWORD,skladchina
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,igcdn.com
-DOMAIN-SUFFIX,instagram.com,force-remote-dns
-DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
@@ -33,5 +33,3 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twttr.com
-
-
