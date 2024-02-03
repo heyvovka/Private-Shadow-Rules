@@ -5,13 +5,13 @@
 DOMAIN,play.google.com
 DOMAIN-KEYWORD,hdrezka
 DOMAIN-KEYWORD,skladchina
-DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,allmylinks.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,i.instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fb.com
