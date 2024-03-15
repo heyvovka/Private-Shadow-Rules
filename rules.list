@@ -1,10 +1,11 @@
 # NAME: Proxy List Rules
 # REPO: https://github.com/heyvovka/Private-Shadow-Rules
-# UPDATED: 2024-02-21 00:00:00
+# UPDATED: 2024-03-15 00:00:00
 
 DOMAIN,play.google.com
 DOMAIN-KEYWORD,hdrezka
 DOMAIN-KEYWORD,skladchina
+DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,allmylinks.com
 DOMAIN-SUFFIX,kino.pub
