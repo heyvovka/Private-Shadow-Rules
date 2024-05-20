@@ -1,6 +1,6 @@
 # NAME: Proxy List Rules
 # REPO: https://github.com/heyvovka/Private-Shadow-Rules
-# UPDATED: 2024-03-15 00:00:00
+# UPDATED: 2024-05-21 00:00:00
 
 DOMAIN,play.google.com
 DOMAIN-KEYWORD,hdrezka
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,internalfb.com
 DOMAIN-SUFFIX,cdnfacebook.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,getrocketapp.io
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,licdn.com
